@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Igloo",
   "base_artist": "KISS OF LIFE",
-  "createdAt": "2026-02-23T05:06:42.023258Z",
+  "createdAt": "2026-04-04T22:11:22.598661Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,15 @@
       "artist": "KISS OF LIFE",
       "has_synced": false,
       "path": "select/pl_01_Igloo_KISS_OF_LIFE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Igloo",
+      "artist": "KISS OF LIFE",
+      "has_synced": false,
+      "path": "select/localdb_01_Igloo_KISS_OF_LIFE.txt",
+      "repo_name": "dCBsFUnyXl0"
     }
   ]
 }
